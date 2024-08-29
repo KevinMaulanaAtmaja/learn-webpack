@@ -1,0 +1,14 @@
+$bg: cyan;
+$primary: lightblue;
+$danger: salmon;
+@import 'bootstrap/scss/bootstrap.scss';
+body{
+    background-color: $bg;
+}
+
+.anime{
+    width: 150px;
+    display: block;
+    margin: 10px auto;
+    border-radius: 50%;
+}
